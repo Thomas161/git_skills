@@ -11,3 +11,5 @@ console.log("person", abc);
 Person.prototype.occupation = "Physician";
 
 console.log(Person);
+
+console.log("index.js");

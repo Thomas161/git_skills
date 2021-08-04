@@ -20,3 +20,8 @@
 ### git commit difference between commit hashes
 
 1. git diff <hash> <hash> etc.
+
+### git rebase main/master on top of feature
+
+1. git checkout feature
+2. git rebase main/master
